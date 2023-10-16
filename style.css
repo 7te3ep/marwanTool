@@ -1,0 +1,26 @@
+* {
+   padding: 0px;
+   margin: 0px;
+   font-size: 12px;
+   box-sizing: border-box;
+   color: aliceblue;
+}
+
+button {
+   background-color: #333;
+}
+
+body {
+   margin: 1rem;
+   background-color: #111;
+   display: flex;
+   gap: 1rem;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: center;
+}
+
+canvas {
+   background-color: #999;
+   color:#ff6385c5 #36a3ebc0 #cb65febd '#ffce56';
+}
